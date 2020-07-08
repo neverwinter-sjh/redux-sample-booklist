@@ -1,26 +1,4 @@
-# ReduxSimpleStarter
+# redux-sample-booklist
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+redux를 이용해서 책 선택하고 내용 표시하는 간단한 기능
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
-"# redux-sample-booklist" 
